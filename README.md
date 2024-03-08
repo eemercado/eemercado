@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is **Emmanuel Jr Evangelista Roncal Mercado...** Or **Emme** for short.
+My name is **Emmanuel Jr Evangelista Roncal Mercado...** Or **Emme**, for short.
