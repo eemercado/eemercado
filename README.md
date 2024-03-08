@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Example Image](frontPage.png)
+![Example Image](frontPage.gif)
