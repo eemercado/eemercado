@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eemercado/eemercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![Example Image](frontGif.gif)
+
+### Hi there 👋
+
+My name is "**Emmanuel Jr Evangelista Roncal Mercado...**" Or "**Emme**" for short.
